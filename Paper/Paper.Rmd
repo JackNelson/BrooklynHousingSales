@@ -1,0 +1,21 @@
+---
+title: "Paper"
+author: "Jack Nelson"
+date: "2/14/2017"
+output: html_document
+---
+
+The first scatter plot shows gross square footage vs. sale price.  There is a concentration of points in the lower right corner and fewer points as both values increase indicating the data could be right skewed and may be a need for a log transformation.  
+
+&nbsp;  
+
+The second scatter plot shows the same plot but after a log transformation which shows the data in a more condensed concentration.  
+
+
+&nbsp;  
+
+The third scatter plot is only looking at 1- 2- and 3- family homes.  The concentration is further centralizing between 0 to 6 on the y axis and 3 to on the x axis.  
+
+&nbsp;  
+
+The fourth scatter plot shows the same data from the third plot but with outliers removed.  The concentration is very clear and compact around tighter boundaries now.
